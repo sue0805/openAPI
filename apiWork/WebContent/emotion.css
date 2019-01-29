@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Song+Myung|Yeon+Sung');
+
+.mind_h1{
+	margin: 10px 0;
+}
+
+.mind_h1, .mind_h2{
+    font-family: 'Song Myung' !important;
+    color: white;
+    opacity: 0.6;
+}
+
+.mind_h2{
+    display: none;
+}
+
+.mind_ta{
+    font-family: 'Song Myung';
+    font-size: 30px;
+    background-color: white;
+    opacity: 0.6;
+    resize: none;
+    border: 10px double white;
+    padding: 30px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.mind_btn{
+    width: 400px;
+    margin: 20px;
+    padding: 10px 30px;
+    font-size: 30px;
+    font-family: 'Song Myung';
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    opacity: 0.8;
+    color: white;
+    
+}
